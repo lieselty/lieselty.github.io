@@ -62,4 +62,4 @@ Currently working on the metagenomic analysis of the ocular surface in relation 
 
 ---
 
-*Thank you for visiting my portfolio! Feel free to reach out if you have a job for me :), or just a scientific chat.* ✨
+*Thank you for visiting my portfolio! Feel free to reach out if you have a job for me :), or just for a scientific chat.* ✨
