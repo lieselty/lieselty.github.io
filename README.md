@@ -16,14 +16,28 @@ Currently working on the metagenomic analysis of the ocular surface in relation 
 ### Ocular Metagenome Analysis
 **Master's thesis at Inselspital, Bern**  
 - Investigating how contact lenses affect the microbial diversity of the ocular surface.
-- Developing and applying a metagenomic data analysis pipeline (Python, R, HPC).
+- Find a way to remove contaminant from low density metagenome.
 
 ### Metagenomic Profiling with sourmash
 **Research project in Falquet’s Group, University of Fribourg**  
 - Analyzed microbial community structures using sketching-based approaches.
-- Used sourmash to compare environmental sample similarities.
+- Used sourmash to test its functionalities and outputs compared to Kraken2.
 
-### Fungicide Resistance Study]
+### [Assembly and annotation of A. thaliana](https://github.com/lieselty/assembly-annotation-course)
+**Small project at Universities Bern (Assembly) and Fribourg (Annotation)**
+- Compute and compare different assemblies of the same genome with three assemblers (Fly, LJA, Hifiasm).
+- Annotate one of them, focus on TEs (EDTA).
+
+### [Gene Expression Changes in Toxoplasma-infected Mus musculus](https://github.com/lieselty/RNA_seq_course)
+**Based on Singhania et al. (2019), at University Bern**
+- RNA-sequencing analysis of healthy and T- gondii infected mice.
+- Use of DESeq2 in R.
+
+### [Computational Epidemiology project](https://github.com/lieselty/computational_epidemiology_project)
+***University Bern***
+- Analysis of SARS 2003 dataset
+
+### Fungicide Resistance Study
 **PBL Bioinformatics Project, University of Neuchâtel**  
 - Explored climate adaptation and fungicide resistance in *Zymoseptoria tritici*.
 - Conducted statistical analysis and data visualization using R.
