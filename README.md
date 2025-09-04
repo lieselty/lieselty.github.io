@@ -61,8 +61,11 @@ I am passionate about using computational tools to explore biological questions,
 - 📧 Email: [oriane.kopp@gmail.com](mailto:oriane.kopp@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/oriane-solange-kopp)
 - 💻 [GitHub](https://github.com/lieselty)
-- 📄[Resume](https://github.com/lieselty/lieselty.github.io/blob/main/CV_OK_EN.pdf)
+- 📄 [Resume](https://github.com/lieselty/lieselty.github.io/blob/main/CV_OK_EN.pdf)
 
 ---
 
 *Thank you for visiting my portfolio! Feel free to reach out if you have a job for me 🤓, or just for a scientific chat.* 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lieselty&show_icons=true&theme=default)
+
