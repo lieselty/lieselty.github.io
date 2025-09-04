@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Oriane Kopp Banner" width="100%" />
+
 # Oriane Kopp
 
 👩‍🎓 Bioinformatician / Data Scientist
