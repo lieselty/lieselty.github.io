@@ -1,7 +1,9 @@
 # Oriane Kopp
 
 👩‍🎓 Bioinformatician / Data Scientist
+
 📜 Master in Bioinformatics and Computational Biology at Universities of Fribourg and Bern (2023–2025)  
+
 📍 Based in Fribourg, Switzerland
 
 ---
