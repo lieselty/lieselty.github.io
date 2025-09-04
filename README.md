@@ -66,6 +66,3 @@ I am passionate about using computational tools to explore biological questions,
 ---
 
 *Thank you for visiting my portfolio! Feel free to reach out if you have a job for me 🤓, or just for a scientific chat.* 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lieselty&show_icons=true&theme=default)
-
