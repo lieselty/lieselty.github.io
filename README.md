@@ -62,6 +62,7 @@ I am passionate about using computational tools to explore biological questions,
 - 🔗 [LinkedIn](https://linkedin.com/in/oriane-solange-kopp)
 - 💻 [GitHub](https://github.com/lieselty)
 - 📄[Resume](https://github.com/lieselty/lieselty.github.io/blob/main/CV_OK_EN.pdf)
+
 ---
 
 *Thank you for visiting my portfolio! Feel free to reach out if you have a job for me 🤓, or just for a scientific chat.* 
